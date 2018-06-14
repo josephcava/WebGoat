@@ -1,4 +1,4 @@
-![depshield](https://90s51czw97.execute-api.us-west-1.amazonaws.com/prod/badges/bigspotteddog/WebGoat/depshield.svg)
+![depshield](https://bjdlffz5ca.execute-api.us-west-2.amazonaws.com/prod/badges/bigspotteddog/WebGoat/depshield.svg)
 
 **********
 **********          WebGoat 6.0
