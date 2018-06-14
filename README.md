@@ -1,5 +1,6 @@
 ![depshield](https://bjdlffz5ca.execute-api.us-west-2.amazonaws.com/prod/badges/bigspotteddog/WebGoat/depshield.svg)
 
+```
 **********
 **********          WebGoat 6.0
 **********          August 23, 2014
@@ -16,6 +17,7 @@
 **  Mailing List: owasp-webgoat@lists.owasp.org (WebGoat Community - For most questions)
 **
 **********
+```
 
 Thank you for downloading WebGoat!
 
