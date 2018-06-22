@@ -1,4 +1,4 @@
-![depshield](https://bjdlffz5ca.execute-api.us-west-2.amazonaws.com/prod/badges/bigspotteddog/WebGoat/depshield.svg)
+![depshield](https://86f67jfje9.execute-api.us-west-2.amazonaws.com/prod/badges/bigspotteddog/WebGoat/depshield.svg)
 
 ```
 **********
