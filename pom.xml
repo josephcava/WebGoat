@@ -10,7 +10,6 @@
 	
 
 	<!-- a comment -->
-	<!-- a comment -->
 
 	<!--Distribution management controls the Nexus repo location -->
 	<distributionManagement>
