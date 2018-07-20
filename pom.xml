@@ -9,12 +9,6 @@
 	<!-- If version contains -SNAPSHOT, Nexus will not allow artifact to be staged -->
 	
 	<!-- comment -->
-	<!-- comment -->
-	<!-- comment -->
-	<!-- comment -->
-	<!-- comment -->
-	<!-- comment -->
-	<!-- comment -->
 
 	<!--Distribution management controls the Nexus repo location -->
 	<distributionManagement>
