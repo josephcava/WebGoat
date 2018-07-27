@@ -1,4 +1,4 @@
-![depshield](https://bz4a3b6mo3.execute-api.us-west-2.amazonaws.com/prod/badges/bigspotteddog/WebGoat/depshield.svg)
+[![DepShield Badge](https://bo8007mvmg.execute-api.us-west-1.amazonaws.com/prod/badges/{owner}/{repository}/depshield.svg)](https://sonatype.github.io/depshield-github-pages)
 
 ```
 **********
