@@ -1,4 +1,4 @@
-[![DepShield Badge](https://depshield.sonatype.org/badges/bigspotteddog/WebGoat/depshield.svg)](https://sonatype.github.io/depshield-github-pages)
+[![DepShield Badge](https://jcava0.depshield.sonatype.org/badges/bigspotteddog/WebGoat/depshield.svg)](https://sonatype.github.io/depshield-github-pages)
 
 ```
 **********
