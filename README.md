@@ -9,7 +9,7 @@
 **  Home Page:              http://webgoat.github.io
 **  Home Page:              http://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
 **  Source Code:            https://github.com/WebGoat/WebGoat
-**  Easy-Run Download:      https://webgoat.atlassian.net/builds/browse/WEB-DAIL/latestSuccessful/artifact/JOB1/WebGoat-Embedded-Tomcat/WebGoat-6.0-SNAPSHOT-war-exec.jar  
+**  Easy-Run Download:      https://webgoat.atlassian.net/builds/browse/WEB-DAIL/latestSuccessful/artifact/JOB1/WebGoat-Embedded-Tomcat/WebGoat-6.0-SNAPSHOT-war-exec.jar
 **  User Guide:             http://www.owasp.org/index.php/WebGoat_User_and_Install_Guide_Table_of_Contents
 **  Wiki:                   http://code.google.com/p/webgoat/w/list
 **  FAQ:                    http://code.google.com/p/webgoat/wiki/FAQ
@@ -27,7 +27,7 @@ be used by people to learn about application penetration
 testing techniques.
 
 
-WARNING 1: While running this program your machine will be 
+WARNING 1: While running this program your machine will be
 extremely vulnerable to attack. You should to disconnect
 from the Internet while using this program.
 
@@ -59,7 +59,7 @@ https://webgoat.atlassian.net/builds/browse/WEB-WGM/latestSuccessful/artifact/sh
     java -jar WebGoat-6.0-exec-war.jar --help
 
 ----------------------------------------------------------------------------------------
-For Developers 
+For Developers
 ----------------------------------------------------------------------------------------
 Follow These instructions if you wish to run Webgoat and modify the source code as well.
 
@@ -68,14 +68,14 @@ Follow These instructions if you wish to run Webgoat and modify the source code 
         * Maven > 2.0.9
         *Your favorite IDE, with Maven awareness: Netbeans/IntelliJ/Eclipse with m2e installed
         * Git, or Git support in your IDE
-        
+
         WebGoat source code
-            WebGoat source code can be downloaded at: 
+            WebGoat source code can be downloaded at:
                   https://github.com/WebGoat/WebGoat
 
         If you are setting up an IDE, Netbeans 8.0 contains the Maven and Git support you need:
             https://netbeans.org/downloads/
-	
+
 ---------------------------------
 Building the project (Developers)
 ---------------------------------
@@ -95,3 +95,5 @@ the package phase also builds an executable jar file. You can run it using:
 cd target
 java -jar WebGoat-6.0-exec-war.jar
 http://localhost:8080/WebGoat
+
+A change.
